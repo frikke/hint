@@ -1,3 +1,28 @@
+# 1.5.6 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`3a828ee2dc`](https://github.com/webhintio/hint/commit/3a828ee2dc0fcaf1457a7902f34bb37228f56385)] - Upgrade: Bump postcss from 8.4.21 to 8.4.23 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5538`](https://github.com/webhintio/hint/issues/5538)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+* [[`f2b8017891`](https://github.com/webhintio/hint/commit/f2b801789157a4913d5478758d6547bec9b4de70)] - Upgrade: Bump postcss from 8.4.20 to 8.4.21 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5487`](https://github.com/webhintio/hint/issues/5487)).
+
+
+# 1.5.4 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+
+
+# 1.5.3 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 1.5.0 (July 7, 2022)
 
 ## New features

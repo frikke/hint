@@ -1,3 +1,31 @@
+# 1.1.13 (August 29, 2024)
+
+## Bug fixes / Improvements
+
+* [[`ca45db6cca`](https://github.com/webhintio/hint/commit/ca45db6ccab2c44e84c4bff3d4d63c60ba7e0e09)] - Fix: Forcing resolution of mdn/browser-compat-data on package.json (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+## Chores
+
+* [[`028ef17d2f`](https://github.com/webhintio/hint/commit/028ef17d2ff3af70043eac6ea5510ead2106dabf)] - Upgrade: Bump Semver to version 7.5.2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5893`](https://github.com/webhintio/hint/issues/5893)).
+* [[`dac7399bfd`](https://github.com/webhintio/hint/commit/dac7399bfda302d768665d7e779d32c4aef4f5d5)] - Upgrade: Bump @mdn/browser-compat-data from 4.1.10 to 5.5.23 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5834`](https://github.com/webhintio/hint/issues/5834)).
+
+
+# 1.1.12 (June 8, 2023)
+
+## Chores
+
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 1.1.11 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 1.1.9 (June 6, 2022)
 
 ## Chores

@@ -1,3 +1,34 @@
+# 4.4.21 (August 29, 2024)
+
+## Bug fixes / Improvements
+
+* [[`6bbb14d1f2`](https://github.com/webhintio/hint/commit/6bbb14d1f2113bb04c90ebcc6e6a4827c5c22837)] - Fix: AXE would not provide an html snippet (by [`Kuba Orlik`](https://github.com/kuba-orlik) / see also: [`#5835`](https://github.com/webhintio/hint/issues/5835)).
+
+
+# 4.4.19 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 4.4.18 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+
+
+# 4.4.17 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 4.4.16 (September 6, 2022)
 
 ## Bug fixes / Improvements

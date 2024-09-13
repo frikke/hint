@@ -1,3 +1,39 @@
+# 2.12.22 (August 29, 2024)
+
+## Chores
+
+* [[`028ef17d2f`](https://github.com/webhintio/hint/commit/028ef17d2ff3af70043eac6ea5510ead2106dabf)] - Upgrade: Bump Semver to version 7.5.2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5893`](https://github.com/webhintio/hint/issues/5893)).
+
+
+# 2.12.20 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`f5a339a767`](https://github.com/webhintio/hint/commit/f5a339a7676ea84d2d23ef73d90fd5ba07bea52a)] - Upgrade: Bump js-library-detector from 6.5.0 to 6.6.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5537`](https://github.com/webhintio/hint/issues/5537)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 2.12.19 (March 16, 2023)
+
+## Bug fixes / Improvements
+
+* [[`9a2aa5746b`](https://github.com/webhintio/hint/commit/9a2aa5746b2de3dd65e2bdc99ef48e43b38584bf)] - Fix: Replacing url for a knockout dependency (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5458`](https://github.com/webhintio/hint/issues/5458)).
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+
+
+# 2.12.18 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 2.12.17 (September 6, 2022)
 
 ## New features

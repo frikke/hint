@@ -1,3 +1,38 @@
+# 3.2.27 (August 29, 2024)
+
+## Chores
+
+* [[`36be2210a1`](https://github.com/webhintio/hint/commit/36be2210a1e9c34582ddfafd6d24e4fed1385ee0)] - Upgrade: Bump Cloudinary to version 2.2.0 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5892`](https://github.com/webhintio/hint/issues/5892)).
+
+
+# 3.2.25 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`6639b639de`](https://github.com/webhintio/hint/commit/6639b639de5d9d6e61b7f5ffb8547cc502859464)] - Upgrade: Bump cloudinary from 1.33.0 to 1.36.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5543`](https://github.com/webhintio/hint/issues/5543)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 3.2.24 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+* [[`db769e126d`](https://github.com/webhintio/hint/commit/db769e126d2d6ded643dbb81aef3ca8d1b3d328a)] - Upgrade: Bump cloudinary from 1.32.0 to 1.33.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5414`](https://github.com/webhintio/hint/issues/5414)).
+* [[`766bafb0f1`](https://github.com/webhintio/hint/commit/766bafb0f1827eb7426f395a36b6c2cc0466641d)] - Upgrade: Bump fs-extra from 10.1.0 to 11.1.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5394`](https://github.com/webhintio/hint/issues/5394)).
+* [[`11103554d0`](https://github.com/webhintio/hint/commit/11103554d048f26428337a02b282290f567d9661)] - Upgrade: Bump cloudinary from 1.28.1 to 1.32.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5344`](https://github.com/webhintio/hint/issues/5344)).
+
+
+# 3.2.23 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 3.2.22 (September 6, 2022)
 
 ## Chores

@@ -1,3 +1,36 @@
+# 2.5.24 (June 27, 2023)
+
+## Bug fixes / Improvements
+
+* [[`ee526dee46`](https://github.com/webhintio/hint/commit/ee526dee4628f7acb300176171e910c149160c71)] - Fix: Reverting node-fetch to v2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5618`](https://github.com/webhintio/hint/issues/5618)).
+
+
+# 2.5.23 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`a51f6de328`](https://github.com/webhintio/hint/commit/a51f6de32819d7de22d1bf37d26af571d10656e7)] - Upgrade: Bump @types/lodash from 4.14.187 to 4.14.194 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5545`](https://github.com/webhintio/hint/issues/5545)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 2.5.22 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+* [[`6b170284b6`](https://github.com/webhintio/hint/commit/6b170284b64275fcab28b0f2b10ab3c4d549803e)] - Upgrade: Bump @types/lodash from 4.14.182 to 4.14.187 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5350`](https://github.com/webhintio/hint/issues/5350)).
+
+
+# 2.5.21 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 2.5.20 (September 6, 2022)
 
 ## Breaking Changes

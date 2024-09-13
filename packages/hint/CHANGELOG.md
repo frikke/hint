@@ -1,3 +1,51 @@
+# 7.1.12 (June 5, 2024)
+
+## New features
+
+* [[`149b5ec560`](https://github.com/webhintio/hint/commit/149b5ec560b6a9873db3e5faf04836c466ce9898)] - Update: Browserlist and caniuse to latest versions (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+
+# 7.1.11 (March 18, 2024)
+
+## Bug fixes / Improvements
+
+* [[`da59800798`](https://github.com/webhintio/hint/commit/da5980079827078f732537c03117141d06f1e828)] - Docs: Update minimum node version to 14.
+* [[`f1b2f4f708`](https://github.com/webhintio/hint/commit/f1b2f4f708be40c284afaef491c4bedd85d431c1)] - Docs: Remove references to retired online scanner (see also: [`#5690`](https://github.com/webhintio/hint/issues/5690)).
+* [[`25483c2f99`](https://github.com/webhintio/hint/commit/25483c2f99ade8667e79f796603a93a5ca321136)] - Docs: Update links to OpenJS Foundation CoC.
+
+
+# 7.1.9 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`a51f6de328`](https://github.com/webhintio/hint/commit/a51f6de32819d7de22d1bf37d26af571d10656e7)] - Upgrade: Bump @types/lodash from 4.14.187 to 4.14.194 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5545`](https://github.com/webhintio/hint/issues/5545)).
+* [[`ce6b06e503`](https://github.com/webhintio/hint/commit/ce6b06e503c7e64991bb591875e3f737fe7f64ac)] - Upgrade: Bump browserslist from 4.19.3 to 4.21.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5441`](https://github.com/webhintio/hint/issues/5441)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+* [[`4693c62338`](https://github.com/webhintio/hint/commit/4693c62338e2850e101a6c6d66fee47f1d5d5b4e)] - Upgrade: Bump eventemitter2 from 6.4.5 to 6.4.9 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5546`](https://github.com/webhintio/hint/issues/5546)).
+
+
+# 7.1.4 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+* [[`6b170284b6`](https://github.com/webhintio/hint/commit/6b170284b64275fcab28b0f2b10ab3c4d549803e)] - Upgrade: Bump @types/lodash from 4.14.182 to 4.14.187 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5350`](https://github.com/webhintio/hint/issues/5350)).
+
+
+# 7.1.3 (October 6, 2022)
+
+## Bug fixes / Improvements
+
+* [[`44b28e4b00`](https://github.com/webhintio/hint/commit/44b28e4b00351fab87642deeabcda8faf0c23af4)] - Fix: Re-adding elementId to location(hint-context) (#5328) (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 7.1.2 (September 6, 2022)
 
 ## Chores

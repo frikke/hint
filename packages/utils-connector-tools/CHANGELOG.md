@@ -1,3 +1,40 @@
+# 4.0.41 (June 27, 2023)
+
+## Bug fixes / Improvements
+
+* [[`ee526dee46`](https://github.com/webhintio/hint/commit/ee526dee4628f7acb300176171e910c149160c71)] - Fix: Reverting node-fetch to v2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5618`](https://github.com/webhintio/hint/issues/5618)).
+
+
+# 4.0.40 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`cdf005dc2d`](https://github.com/webhintio/hint/commit/cdf005dc2d610963d54db65d0066510db26cf84c)] - Upgrade: Bump node-fetch from 2.6.7 to 3.3.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5499`](https://github.com/webhintio/hint/issues/5499)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 4.0.39 (March 16, 2023)
+
+## Chores
+
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+
+
+# 4.0.38 (October 6, 2022)
+
+## Bug fixes / Improvements
+
+* [[`f5da66784d`](https://github.com/webhintio/hint/commit/f5da66784dfae8a88fd4ad4475b0b6a0c38d0ce9)] - Fix: Requester breaking when mixing http and https (by [`Kuba Orlik`](https://github.com/kuba-orlik) / see also: [`#5317`](https://github.com/webhintio/hint/issues/5317)).
+* [[`d2125cf491`](https://github.com/webhintio/hint/commit/d2125cf4915e630a883aaf5798b5cf7ec35faf24)] - Fix: Remove console.logs in requester.ts (by [`Kuba Orlik`](https://github.com/kuba-orlik) / see also: [`#5316`](https://github.com/webhintio/hint/issues/5316)).
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 4.0.37 (September 6, 2022)
 
 ## Breaking Changes

@@ -1,3 +1,70 @@
+# 1.4.16 (June 5, 2024)
+
+## New features
+
+* [[`149b5ec560`](https://github.com/webhintio/hint/commit/149b5ec560b6a9873db3e5faf04836c466ce9898)] - Update: Browserlist and caniuse to latest versions (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+## Chores
+
+* [[`dac7399bfd`](https://github.com/webhintio/hint/commit/dac7399bfda302d768665d7e779d32c4aef4f5d5)] - Upgrade: Bump @mdn/browser-compat-data from 4.1.10 to 5.5.23 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5834`](https://github.com/webhintio/hint/issues/5834)).
+
+
+# 1.4.15 (March 21, 2024)
+
+## Bug fixes / Improvements
+
+* [[`6ef9b7cd0c`](https://github.com/webhintio/hint/commit/6ef9b7cd0c9129ca5a53f30ef51812622ad3d459)] - Fix: Fixing error Declaration emit for this file requires using private name 'Context' (#5752).
+
+
+# 1.4.14 (March 18, 2024)
+
+## Bug fixes / Improvements
+
+* [[`8338856f94`](https://github.com/webhintio/hint/commit/8338856f942c488a40631b134358441bf295f3ee)] - Fix: Fixes a warning in utils-worker package for missing vm module.
+
+## Chores
+
+* [[`6ff70107a6`](https://github.com/webhintio/hint/commit/6ff70107a671366c0077790ea4e5f4573050a5c5)] - Chore: Incresing size limit for package files for the browser extension.
+
+
+# 1.4.12 (June 8, 2023)
+
+## Chores
+
+* [[`3854a43f65`](https://github.com/webhintio/hint/commit/3854a43f65a2039bc602bfc0bbb42021adce4249)] - Upgrade: Bump @types/node from 18.13.0 to 20.1.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5557`](https://github.com/webhintio/hint/issues/5557)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`ce6b06e503`](https://github.com/webhintio/hint/commit/ce6b06e503c7e64991bb591875e3f737fe7f64ac)] - Upgrade: Bump browserslist from 4.19.3 to 4.21.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5441`](https://github.com/webhintio/hint/issues/5441)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+
+
+# 1.4.10 (March 28, 2023)
+
+## Chores
+
+* [[`3f47808f49`](https://github.com/webhintio/hint/commit/3f47808f49f9265ec7bb2a0e97315a46da9841c7)] - Chore: Adding `hint-detect-css-reflows` to `utils-worker` (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5476`](https://github.com/webhintio/hint/issues/5476)).
+
+
+# 1.4.7 (March 16, 2023)
+
+## Chores
+
+* [[`1ce9bf0b40`](https://github.com/webhintio/hint/commit/1ce9bf0b40088f77647134918c4d4623e5778d32)] - Upgrade: Bump webpack from 5.72.1 to 5.76.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5457`](https://github.com/webhintio/hint/issues/5457)).
+* [[`9a70e414f0`](https://github.com/webhintio/hint/commit/9a70e414f04fed9ddd86073641415c0ddc0841eb)] - Upgrade: Bump @types/node from 17.0.14 to 18.13.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5425`](https://github.com/webhintio/hint/issues/5425)).
+* [[`6216eaa0db`](https://github.com/webhintio/hint/commit/6216eaa0db472ef408766f96c1fb2d1d1556257b)] - Upgrade: Bump terser-webpack-plugin from 5.3.3 to 5.3.6 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5337`](https://github.com/webhintio/hint/issues/5337)).
+
+
+# 1.4.6 (October 6, 2022)
+
+## Bug fixes / Improvements
+
+* [[`44b28e4b00`](https://github.com/webhintio/hint/commit/44b28e4b00351fab87642deeabcda8faf0c23af4)] - Fix: Re-adding elementId to location(hint-context) (#5328) (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 1.4.5 (September 6, 2022)
 
 ## Bug fixes / Improvements

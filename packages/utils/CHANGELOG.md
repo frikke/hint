@@ -1,3 +1,37 @@
+# 7.0.24 (August 29, 2024)
+
+## Chores
+
+* [[`028ef17d2f`](https://github.com/webhintio/hint/commit/028ef17d2ff3af70043eac6ea5510ead2106dabf)] - Upgrade: Bump Semver to version 7.5.2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5893`](https://github.com/webhintio/hint/issues/5893)).
+* [[`f6cde85552`](https://github.com/webhintio/hint/commit/f6cde85552b4c0420f8d75f325c439cd3a5eb11d)] - Upgrade: Bump fast-xml-parser to 4.1.3 (by [`Vidal Ortega`](https://github.com/vidorteg)).
+
+
+# 7.0.23 (June 8, 2023)
+
+## Chores
+
+* [[`9b2b2556a0`](https://github.com/webhintio/hint/commit/9b2b2556a02a1c775f41a46e63ef99b2382743bd)] - Upgrade: Bump npm-registry-fetch from 14.0.3 to 14.0.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5534`](https://github.com/webhintio/hint/issues/5534)).
+* [[`90788a3a04`](https://github.com/webhintio/hint/commit/90788a3a04bd43366346b84e1272ab6cd5bbf6a6)] - Upgrade: Bump @typescript-eslint/eslint-plugin from 4.33.0 to 5.59.2 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5551`](https://github.com/webhintio/hint/issues/5551)).
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+* [[`4693c62338`](https://github.com/webhintio/hint/commit/4693c62338e2850e101a6c6d66fee47f1d5d5b4e)] - Upgrade: Bump eventemitter2 from 6.4.5 to 6.4.9 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5546`](https://github.com/webhintio/hint/issues/5546)).
+* [[`e95fcdf37f`](https://github.com/webhintio/hint/commit/e95fcdf37f979e26f6072c19b98cf7c17db1d199)] - Upgrade: Bump content-type from 1.0.4 to 1.0.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5506`](https://github.com/webhintio/hint/issues/5506)).
+
+
+# 7.0.22 (March 16, 2023)
+
+## Chores
+
+* [[`61fabd02f9`](https://github.com/webhintio/hint/commit/61fabd02f9d359ac40c3aa7dec3c544148ff46b5)] - Upgrade: Bump npm-registry-fetch from 13.3.0 to 14.0.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5447`](https://github.com/webhintio/hint/issues/5447)).
+
+
+# 7.0.21 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 7.0.20 (September 6, 2022)
 
 ## Chores

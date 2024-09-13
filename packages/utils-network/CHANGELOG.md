@@ -1,3 +1,27 @@
+# 1.0.26 (June 27, 2023)
+
+## Bug fixes / Improvements
+
+* [[`ee526dee46`](https://github.com/webhintio/hint/commit/ee526dee4628f7acb300176171e910c149160c71)] - Fix: Reverting node-fetch to v2 (by [`Vidal Ortega`](https://github.com/vidorteg) / see also: [`#5618`](https://github.com/webhintio/hint/issues/5618)).
+
+
+# 1.0.25 (June 8, 2023)
+
+## Chores
+
+* [[`a44ec65bd0`](https://github.com/webhintio/hint/commit/a44ec65bd02078e7d6110ebe0e6ee1b107529c87)] - Upgrade: Bump eslint-plugin-import from 2.26.0 to 2.27.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5481`](https://github.com/webhintio/hint/issues/5481)).
+* [[`cdf005dc2d`](https://github.com/webhintio/hint/commit/cdf005dc2d610963d54db65d0066510db26cf84c)] - Upgrade: Bump node-fetch from 2.6.7 to 3.3.1 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5499`](https://github.com/webhintio/hint/issues/5499)).
+* [[`5f2e5c418b`](https://github.com/webhintio/hint/commit/5f2e5c418b8d7d61e07d7e3e9655cc5ccb094979)] - Upgrade: Bump rimraf from 3.0.2 to 5.0.0 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5550`](https://github.com/webhintio/hint/issues/5550)).
+* [[`e95fcdf37f`](https://github.com/webhintio/hint/commit/e95fcdf37f979e26f6072c19b98cf7c17db1d199)] - Upgrade: Bump content-type from 1.0.4 to 1.0.5 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5506`](https://github.com/webhintio/hint/issues/5506)).
+
+
+# 1.0.23 (October 6, 2022)
+
+## Chores
+
+* [[`005e962584`](https://github.com/webhintio/hint/commit/005e9625841970bdd80d3a3780721220e9e0dfa7)] - Upgrade: Bump ava from 4.0.1 to 4.3.3 (by [`dependabot[bot]`](https://github.com/apps/dependabot) / see also: [`#5310`](https://github.com/webhintio/hint/issues/5310)).
+
+
 # 1.0.22 (September 6, 2022)
 
 ## Breaking Changes
